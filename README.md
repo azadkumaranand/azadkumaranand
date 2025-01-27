@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on exciting projects. Below you'll find more about me, my skills, and how to connect with me.
 
 ## 🔭 I’m currently working on...
-- AI Study Material Generator(https://github.com/azadkumaranand/ai-lms-generator) - A brief description of the project.
-- Sports Management Project(https://github.com/azadkumaranand/srsportsacademy) - Another brief description of the project.
+- AI Study Material Generator(https://github.com/azadkumaranand/ai-lms-generator).
+- Sports Management Project(https://github.com/azadkumaranand/srsportsacademy).
 
 ## 🌱 I’m currently learning...
 - **Technology 1**: Ai model integration in web development.
