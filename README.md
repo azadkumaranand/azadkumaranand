@@ -3,20 +3,16 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on exciting projects. Below you'll find more about me, my skills, and how to connect with me.
 
 ## 🔭 I’m currently working on...
-- [Project Name 1](https://github.com/azadkumaranand/project1) - A brief description of the project.
-- [Project Name 2](https://github.com/azadkumaranand/project2) - Another brief description of the project.
+- AI Study Material Generator(https://github.com/azadkumaranand/ai-lms-generator) - A brief description of the project.
+- Sports Management Project(https://github.com/azadkumaranand/srsportsacademy) - Another brief description of the project.
 
 ## 🌱 I’m currently learning...
-- **Technology 1**: A brief description of what you're learning.
-- **Technology 2**: Another brief description of what you're learning.
+- **Technology 1**: Ai model integration in web development.
+- **Technology 2**: Computer Network.
 
 ## 👯 I’m looking to collaborate on...
-- Open-source projects related to [specific technology or field].
+- Open-source projects related to Javascript, PHP, and Laravel.
 - Innovative projects that solve real-world problems.
-
-## 🤔 I’m looking for help with...
-- [Specific topic or technology] - A brief description of what you need help with.
-- [Another topic] - Another brief description.
 
 ## 💬 Ask me about...
 - **Programming Languages**: Python, JavaScript, etc.
@@ -24,9 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Tools**: Git, Docker, etc.
 
 ## 📫 How to reach me:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
+- **Email**: azadanand9798@gmail.com(mailto:azadanand9798@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/azad-kumar-24aaba244/)
 
 ## 😄 Pronouns:
 - He/Him
