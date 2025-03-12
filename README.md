@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Azad Kumar Anand
+# Hi there 👋 I'm Azad Kumar
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on exciting projects. Below you'll find more about me, my skills, and how to connect with me.
 
